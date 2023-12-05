@@ -15,12 +15,12 @@ const globalState = {
     //     amount:400,
     //     type:"debit",
     // }
-     {
-         id:Math.floor(math.random() * 1000),
-         text: "Example",
-         amount:10,
-         type: "credit",
-     }
+    //  {
+    //      id:Math.floor(Math.random() * 1000),
+    //      text: "Example",
+    //      amount:10,
+    //      type: "credit",
+    //  }
 ]
 }
 
